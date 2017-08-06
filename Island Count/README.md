@@ -11,3 +11,6 @@ Input:
 ![](https://github.com/JiawenQi98/PrampPractice/blob/master/Island%20Count/input.png)
 
 Output: 6
+
+## Methods:
+Depth-First Search, Breadth-First Search, Union Find
