@@ -7,7 +7,7 @@ An island is defined as a group of adjacent values that are all *1s*. A cell in 
 ## Example:
 
 Input:
-![](http://url/to/img.png)
 
+![](https://github.com/JiawenQi98/PrampPractice/blob/master/Island%20Count/input.png)
 
-Output:
+Output: 6
