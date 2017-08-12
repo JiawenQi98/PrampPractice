@@ -26,7 +26,7 @@ public class KMessedArraySort {
         return arr;
     }
 
-    // Min Heap
+    // Min Heap: O(N * log(K))
     public static int[] sortKMessedArray(int[] arr, int k) {
         int n = arr.length;
 
